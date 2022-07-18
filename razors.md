@@ -53,7 +53,7 @@ If you still want to do it, say yes.
 # The Uphill Decision Razor 
 When faced with two options, choose the one that’s more difficult in the short-term.
 
-@naval calls this making "uphill decisions”—a forced override of your pain avoidance instinct.
+[@naval](https://twitter.com/naval?s=21&t=olLuc6Hadt_AGWKTLCL-4w) calls this making "uphill decisions”—a forced override of your pain avoidance instinct.
 
 It's worth it—short-term pain creates compounding long-term gain.
 
