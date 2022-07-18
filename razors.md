@@ -1,6 +1,6 @@
 # Razors For Life and Work Choices 
 
-# THe Feynman Razor 
+# The Feynman Razor 
 Complexity and jargon are used to mask a lack of deep understanding.
 
 If you can’t explain it to a 5-year-old, you don’t really understand it.
